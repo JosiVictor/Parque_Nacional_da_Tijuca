@@ -20,7 +20,7 @@ def load_data_from_sheet(uploaded_file, sheet_name):
 
 def main():
     st.title('Visitantes no Parque Nacional da Tijuca')
-    st.image('C:/Users/Josi/DR1_TP3/Logotipo_do_Parque_Nacional_da_Tijuca.jpg')
+    st.image('./Logotipo_do_Parque_Nacional_da_Tijuca.jpg')
 
 
     # Color pickers para personalização do fundo e fonte
